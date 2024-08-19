@@ -8,6 +8,7 @@ This is a Text Summarization project that aims to generate concise summaries fro
 
 Text summarization is a critical application of Natural Language Processing (NLP), particularly in scenarios where large volumes of text need to be condensed efficiently. This repository chronicles the development and deployment of a sophisticated text summarization model, highlighting the fine-tuning of a HuggingFace Transformer model on custom datasets and its deployment using AWS.
 
+
 ## Project Overview
 
 This repository provides a comprehensive guide to the end-to-end process of building and deploying a text summarization model. Key areas covered include:
@@ -24,6 +25,7 @@ This repository provides a comprehensive guide to the end-to-end process of buil
 
 This project also emphasizes modular coding practices, Dockerized deployments, and the implementation of CI/CD workflows to ensure robust, maintainable, and scalable code.
 
+
 ## Features
 
 1. Model Fine-Tuning: Fine-tuning a HuggingFace Transformer model on custom data to enhance summarization capabilities.
@@ -37,10 +39,6 @@ This project also emphasizes modular coding practices, Dockerized deployments, a
 5. CI/CD Workflows: Implementing Continuous Integration and Continuous Deployment (CI/CD) workflows using GitHub Actions to streamline the development process.
 Installation
 
-## To install the required dependencies, execute the following command:
-
-
-pip install -r requirements.txt
 
 ## Usage
 
@@ -58,6 +56,7 @@ pip install -r requirements.txt
 3. **Setup and Fine-Tuning:**
 
 Follow the detailed setup instructions provided in the repository to fine-tune the model, configure the development environment, and deploy the application on AWS.
+
 
 ## Note
 
