@@ -44,17 +44,22 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Clone the repository:
+1. **Clone the repository:**
 
-git clone https://github.com/Pav-03/Text-Summarizer-LLM.git
+   ```bash
+   git clone https://github.com/Pav-03/Text-Summarizer-LLM.git
+   cd end-to-end-text-summarizer
 
-cd end-to-end-text-summarizer
 
-### Install dependencies:
+2. **Install dependencies:**
 
+'''bash
 pip install -r requirements.txt
 
-### Setup and Fine-Tuning:
+
+
+
+3. **Setup and Fine-Tuning:**
 
 Follow the detailed setup instructions provided in the repository to fine-tune the model, configure the development environment, and deploy the application on AWS.
 
