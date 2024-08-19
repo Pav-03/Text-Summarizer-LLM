@@ -49,15 +49,11 @@ pip install -r requirements.txt
    ```bash
    git clone https://github.com/Pav-03/Text-Summarizer-LLM.git
    cd end-to-end-text-summarizer
-
-
+   
 2. **Install dependencies:**
 
-'''bash
-pip install -r requirements.txt
-
-
-
+   ```bash
+   pip install -r requirements.txt
 
 3. **Setup and Fine-Tuning:**
 
