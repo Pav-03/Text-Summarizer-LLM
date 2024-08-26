@@ -58,6 +58,4 @@ Installation
 Follow the detailed setup instructions provided in the repository to fine-tune the model, configure the development environment, and deploy the application on AWS.
 
 
-## Note
 
-The accuracy of the text summarization model can be further improved by adjusting various hyperparameters such as epochs, batch size, and beam size. Due to GPU limitations, this model has been fine-tuned using the highest feasible parameters. However, with greater computational power, the model's performance, as measured by the ROUGE score, can be significantly enhanced. Despite these constraints, the model demonstrates strong performance with the current configuration.
